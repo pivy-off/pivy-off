@@ -1,43 +1,41 @@
-Hi, I’m Pierre 👋
+## Hi, I’m Pierre 👋
 
-Biochemistry 🧪 and Computer Science 💻 student building software at the intersection of science, data, and real world impact 🌍
+Biochemistry 🧪 and Computer Science 💻 student building software at the intersection of science, data, and real-world impact 🌍
 
-🔭 Current Projects
+---
 
-InternHub 🚀
+## 🔭 Current Projects
 
-Full stack platform to browse, filter, and track internship opportunities
+- **InternHub** 🚀  
+  - Full-stack platform to browse, filter, and track internship opportunities  
+  - Built with React, TypeScript, and backend APIs  
 
-Built with React, TypeScript, and backend APIs
+- **OrgoPivy** 🧬  
+  - Educational tool for chemistry and organic chemistry students  
+  - Focused on study workflows, mechanisms, and concept reinforcement  
 
-OrgoPivy 🧬
+- **Other Work**  
+  - Backend and full-stack projects using Python, FastAPI, React, and TypeScript  
 
-Educational tool for chemistry and organic chemistry students
+---
 
-Focused on learning workflows, mechanisms, and study support
+## 🌱 Currently Learning
 
-Other Work
+- Machine learning and applied AI 🤖  
+- Scalable backend systems and API design ⚙️  
+- Modern frontend development with React 🎨  
 
-Backend and full stack projects using Python, FastAPI, React, and TypeScript
+---
 
-🌱 Currently Learning
+## 💡 Interests
 
-Machine learning and applied AI 🤖
+- Computational biology and biomedical AI 🧬  
+- Software engineering internships and research 🔬  
+- Building tools that expand access to education 📚  
 
-Scalable backend systems and API design ⚙️
+---
 
-Modern frontend development with React 🎨
+## 📫 Connect With Me
 
-💡 Interests
-
-Computational biology and biomedical AI 🧬
-
-Software engineering internships and research 🔬
-
-Building tools that expand access to education 📚
-
-📫 Connect With Me
-
-GitHub github.com/pivy off
-
-LinkedIn linkedin.com/in/pierre diatta
+- GitHub: https://github.com/pivy-off  
+- LinkedIn: https://www.linkedin.com/in/pierre-diatta
