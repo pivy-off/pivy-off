@@ -3,7 +3,7 @@ I’m a Biochemistry and Computer Science student building software at the inter
 
 🔭 What I’m working on
 
-InternHub a full stack platform to browse, filter, and track internship opportunities in one place
+InternHub https://github.com/Internship-Search-Engine a full stack platform to browse, filter, and track internship opportunities in one place
 OrgoPivy an educational tool for chemistry students
 Backend and full stack projects using Python, FastAPI, React, and TypeScript
 
